@@ -1,6 +1,6 @@
 # 3-Tier-Architecture-AWS-Terraform
 
-#
+Step 1
 
 1. VPC
 6 subnets
